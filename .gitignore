@@ -1,0 +1,26 @@
+# --- Python build/cache files ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# --- Virtual environment folders ---
+venv/
+env/
+.venv/
+.env/
+
+# --- VS Code settings (optional to ignore) ---
+.vscode/
+
+# --- OS-specific junk ---
+.DS_Store        # macOS
+Thumbs.db        # Windows
+
+# --- Jupyter Notebook checkpoints (if you ever use notebooks) ---
+.ipynb_checkpoints/
+
+# --- Logs or temporary files ---
+*.log
+*.tmp

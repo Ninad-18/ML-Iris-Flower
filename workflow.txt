@@ -1,0 +1,13 @@
+1. Load and inspect the dataset.
+
+2. Separate features (X) and target (y).
+
+3. Split data into training and testing sets.
+
+4. Standardize the features for better model performance.
+
+5. Train a logistic regression model on the training set.
+
+6. Evaluate the model using accuracy on the test set.
+
+7. Use the trained model to predict species for new flower measurements.
