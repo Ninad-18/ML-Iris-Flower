@@ -9,7 +9,8 @@ into three species: *Iris-setosa*, *Iris-versicolor*, and *Iris-virginica*.
 - `workflow.txt` : Notes on the project workflow.
 
 ## How to Run
-1. Install dependencies:
+1. Clone repo : git clone https://github.com/Ninad-18/ML-Iris-Flower
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
 
