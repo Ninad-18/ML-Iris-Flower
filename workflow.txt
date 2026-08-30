@@ -11,3 +11,6 @@
 6. Evaluate the model using accuracy on the test set.
 
 7. Use the trained model to predict species for new flower measurements.
+
+
+This is how a basic ML pipeline is designed.
