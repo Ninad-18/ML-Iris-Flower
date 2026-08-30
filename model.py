@@ -1,10 +1,11 @@
 # Import necessary libraries
-import pandas as pd                             # For loading and handling tabular data
-from sklearn.linear_model import LogisticRegression  # Logistic Regression model
-import numpy as np                               # For creating and manipulating arrays
-from sklearn.model_selection import train_test_split # To split data into training and test sets
-from sklearn.preprocessing import StandardScaler     # For feature scaling (standardization)
-from sklearn.metrics import accuracy_score           # To measure model accuracy
+
+import pandas as pd                                    # For loading and handling tabular data
+from sklearn.linear_model import LogisticRegression    # Logistic Regression model
+import numpy as np                                     # For creating and manipulating arrays
+from sklearn.model_selection import train_test_split   # To split data into training and test sets
+from sklearn.preprocessing import StandardScaler       # For feature scaling (standardization)
+from sklearn.metrics import accuracy_score             # To measure model accuracy
 
 # ------------------- Load and explore the dataset -------------------
 
