@@ -7,9 +7,7 @@ __pycache__/
 
 # --- Virtual environment folders ---
 venv/
-env/
 .venv/
-.env/
 
 # --- VS Code settings (optional to ignore) ---
 .vscode/
